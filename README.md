@@ -79,11 +79,9 @@ vr 강의, 자율주행 셔틀버스, 스마트 강의실, AI 생체 인지 캠�
 
 - 각오와 소감 나누기 ✔️  
 
+<img width="2245" height="3179" alt="KakaoTalk_20251030_103248219" src="https://github.com/user-attachments/assets/4b733939-8a29-45a8-8a02-18d5ae033e19" />
 
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+
 
 ***
 
